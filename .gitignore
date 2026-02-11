@@ -1,0 +1,45 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vssscc
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+logs/
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.idea/
+*.swp
+*~
+
+# Type Libraries (generados por RegAsm)
+*.tlb
+
+# Archivos temporales
+*.tmp
+*.temp
+~$*
+
+# Configuración local
+VBASincSettings.json
