@@ -8,6 +8,12 @@
 
 ---
 
+## 📥 [Download Latest Installer (VBASinc.exe)](https://github.com/fcgamarra2002-max/VBASinc/raw/main/VBASinc.exe)
+
+> **Note**: This is the all-in-one professional installer v1.0.4.1. Run as Administrator to automatically configure Office security and register the engine.
+
+---
+
 ## 🌟 Key Features
 
 *   **Real-Time Reactive Sync**: Powered by `FileSystemWatcher` and VBA IDE events. No polling, no lag.
