@@ -8,7 +8,7 @@
 
 ---
 
-## 📥 [Download Latest Installer (VBASinc.exe)](https://github.com/fcgamarra2002-max/VBASinc/raw/main/VBASinc.exe)
+## 📥 [Download Latest Release](https://github.com/fcgamarra2002-max/VBASinc/releases/latest)
 
 > **Note**: This is the all-in-one professional installer v1.0.4.1. Run as Administrator to automatically configure Office security and register the engine.
 
